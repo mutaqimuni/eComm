@@ -1,0 +1,7 @@
+Header , Footer dan Login
+- Buat Header
+- Tambah Menu
+- Buat Login Form
+- Buat Footer Page
+- First page will be ready
+- Push
