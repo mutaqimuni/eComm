@@ -11,13 +11,5 @@
 <body>
     
 </body>
-<script>
-    $(document).ready(function()
-    {
-        $("button").click(function()
-        {
-            alert("All set");
-        })
-    })
-</script>
+
 </html>
