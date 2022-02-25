@@ -19,4 +19,5 @@ Completekan Login
 - Submit Form
 - Buat Controller product
 - Buat middleware
-- Register middlewareWrite code dalam middleware untuk login
+- Register middleware
+- Write code dalam middleware untuk login(untuk check session)
