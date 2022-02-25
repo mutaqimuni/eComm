@@ -5,3 +5,10 @@ Header , Footer dan Login
 - Buat Footer Page
 - First page will be ready
 - Push
+
+Setup DataBase for Project
+- Buat DataBase
+- Connect Database dengan Project
+- Migrate Database Table
+- Database Seeding
+- Push 
