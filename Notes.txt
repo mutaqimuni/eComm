@@ -12,3 +12,11 @@ Setup DataBase for Project
 - Migrate Database Table
 - Database Seeding
 - Push 
+
+Completekan Login
+- Buat User Controlller
+- Buat Route
+- Submit Form
+- Buat Controller product
+- Buat middleware
+- Register middlewareWrite code dalam middleware untuk login
