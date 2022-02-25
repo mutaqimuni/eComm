@@ -9,9 +9,15 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 </head>
 <body>
-    
-</body>
 {{View::make('header')}}
 @yield('content')
 {{View::make('footer')}}
+</body>
+<style>
+    .custom-login{
+        height: 500px;
+        padding-top: 100px;
+    }
+</style>
+
 </html>
