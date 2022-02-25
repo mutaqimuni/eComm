@@ -3,7 +3,7 @@
 <div class="container custom-login">
     <div class="row">
         <div class="col-sm-4 offset-sm-4">
-            <form action="/login" method="POST">
+            <form action="login" method="POST">
                 <div class="form-group mb-3">
                     @csrf
                     <label for="exampleInputEmail1" class="form-label">Email address</label>
