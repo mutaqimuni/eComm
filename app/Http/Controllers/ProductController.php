@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
-    function login(){
+    function index(){
         return "Welcome to our index page";
     }
 }
