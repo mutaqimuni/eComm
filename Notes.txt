@@ -27,3 +27,11 @@ Database untuk
 - Define and Migrate Table
 - Make Seeder file
 - Insert Seeding in Table
+
+Home Page SLider
+- Guna Slider Table untuk Showcase Products
+- Buat Model dan get Data daripada DB.
+- Buat View dan Pass data kepada View
+- Guna Bootstrap Carousel
+- Pass Products ke Carousel
+- Style
