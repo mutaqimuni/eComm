@@ -14,7 +14,7 @@ class ProductSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('users')->insert([
+        DB::table('products')->insert([
             'name'=> 'LG mobile',
             'price' =>'200',
             'description' => 'Can make you very happy with technology',
