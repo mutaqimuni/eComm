@@ -21,3 +21,9 @@ Completekan Login
 - Buat middleware
 - Register middleware
 - Write code dalam middleware untuk login(untuk check session)
+
+Database untuk 
+- Define Migration file 
+- Define and Migrate Table
+- Make Seeder file
+- Insert Seeding in Table
